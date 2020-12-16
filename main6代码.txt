@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<video width="550" height="400" autoplay>
+  <source src="antivirus.mp4" type="video/mp4">
+  <source src="antivirus.ogg" type="video/ogg">
+</video>
+<head>
+<title>My web site</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<style>
+body{
+background-image:url("https://www.hackingtutorials.org/wp-content/uploads/2016/04/how-does-antivirus-software-work-artwork.jpg");
+ background-repeat:no-repeat;
+  background-position: right top;
+  margin-right: 200px;
+  background-attachment: fixed;
+  }
+</style>
+<body class="Antivirus">
+<div class="Antivirus">
+<h1 style="color:black";><b>5.How does antivirus work?</b></h1><br>
+<p style="color:tomato";>Antivirus software begins operating by checking your computer programs and <br>files against a database of known types of malware. Since new viruses are <br>constantly created and distributed by hackers, it will also scan computers for the <br>possibility of new or unknown type of malware threats.<br><br><br></p>
+<P style="color:blue";>Typically, most programs will use three different detection devices: specific <br>detection, which identifies known malware; generic detection, which looks for<br> known parts or types of malware or patterns that are related by a common <br>codebase; and heuristic detection, which scans for unknown viruses by <br>identifying known suspicious file structures. When the program finds a file that <br>contains a virus, it will usually quarantine it and/or mark it for deletion, making it <br>inaccessible and removing the risk to your device.</p>
+</div>
+
+</body>
+</html>

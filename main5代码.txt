@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<title>My web site</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<style>
+body {
+  background-image: url("https://www.xaasjournal.com/wp-content/uploads/2020/09/mac-antivirus-security-696x392.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  margin-right: 200px;
+  background-attachment: fixed;
+  opacity:1;
+  }
+</style>
+<body>
+<body class="Antivirus">
+<div class="Antivirus">
+<h1 style="color:Tomato;"> <b> 4.Antivirus programs and <br>computer protection software</b></h1><br><br>
+<p style="color:orange;">Antivirus programs and computer protection software are designed <br>to evaluate data such as web pages, files, software and applications <br>to help find and eradicate malware as quickly as possible.</p><br><br>
+<p style="color:MediumSeaGreen;">Most provide real-time protection, which can protect your devices<br> from incoming threats; scan your entire computer regularly for known <br>threats and provide automatic updates; and identify, block and delete<br> malicious codes and software.</p>
+<br><br>
+<p style="color:SlateBlue;">Because so many activities are now conducted online and new<br> threats emerge continuously, it’s more important than ever to install a <br>protective antivirus program. Fortunately, there are a number of<br> excellent products on the market today to choose from.</p>
+</div>
+
+</body>
+</html>

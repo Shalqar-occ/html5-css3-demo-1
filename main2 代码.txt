@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<title>My web site</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body class="Antivirus">
+<div class="Antivirus">
+<h1>1. Computer virus</h1>
+<h3> Definition</h3>
+<p>Not to be confused with computer worm or Trojan horse (computing).<br><br>
+A computer virus is a type of computer program that, when executed, replicates <br>itself by modifying other computer programs and inserting its own code.<br> When this replication succeeds, the affected areas are then said to be "infected" <br>with a computer virus.</p>
+<p><b>What are the signs of a computer virus?</B></p>
+<ul>
+<li><b>Frequent pop-up windows:</b> Pop-ups might encourage you to visit unusual sites.<br> Or they might prod you to download antivirus or other software programs.</li>
+<li><b>Changes to your homepage:</b> Your usual homepage may change to another website,<br> for instance. Plus, you may be unable to reset it.</li>
+<li><b>Mass emails being sent from your email account:</b> A criminal may take control<br> of your account or send emails in your name from another infected computer.</li>
+<li><b>Frequent crashes:</b> A virus can inflict major damage on your hard drive.<br> This may cause your device to freeze or crash. It may also prevent your device <br>from coming back on.</li>
+<li><b>Unusually slow computer performance:</b> A sudden change of processing<br> speed could signal that your computer has a virus.</li>
+<li><b>Unknown programs that start up when you turn on your computer:</b> You may <br>become aware of the unfamiliar program when you start your computer. Or you <br>might notice it by checking your computer’s list of active applications.</li>
+<li><b>Unusual activities like password changes:</b> This could prevent you<br> from logging into your computer.
+</ul>
+</div>
+
+</body>
+</html>
